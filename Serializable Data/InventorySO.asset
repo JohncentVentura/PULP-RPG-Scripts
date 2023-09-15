@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5cb0918e53428cc4d88329b0ad2ce706, type: 3}
+  m_Name: InventorySO
+  m_EditorClassIdentifier: 
+  isItemUsed: 0
+  addFirstAid: 1
+  addCharismaBook: 1
+  addESDShoes: 1
+  addLogicBook: 1
+  addUmbrella: 1
+  addFitnessBook: 1
+  addEnergyDrink: 1
+  addMentalHealthBook: 1
+  addCoffee: 1
+  addCreativityBook: 1
+  addJumpingShoes: 1
+  spriteFirstAid: {fileID: 33990196, guid: 539ed020901fe214184deddb39f507c0, type: 3}
+  spriteCharismaBook: {fileID: 1992086340, guid: 539ed020901fe214184deddb39f507c0, type: 3}
+  spriteESDShoes: {fileID: 1612586872, guid: 539ed020901fe214184deddb39f507c0, type: 3}
+  spriteLogicBook: {fileID: -1460157124, guid: 539ed020901fe214184deddb39f507c0, type: 3}
+  spriteUmbrella: {fileID: 534595722, guid: 539ed020901fe214184deddb39f507c0, type: 3}
+  spriteFitnessBook: {fileID: -272228250, guid: 539ed020901fe214184deddb39f507c0, type: 3}
+  spriteEnergyDrink: {fileID: -1720836383, guid: 539ed020901fe214184deddb39f507c0, type: 3}
+  spriteMentalHealthBook: {fileID: 485838840, guid: 539ed020901fe214184deddb39f507c0, type: 3}
+  spriteCoffee: {fileID: -817204635, guid: 539ed020901fe214184deddb39f507c0, type: 3}
+  spriteCreativityBook: {fileID: 959266849, guid: 539ed020901fe214184deddb39f507c0, type: 3}
+  spriteJumpingShoes: {fileID: 1614850265, guid: 539ed020901fe214184deddb39f507c0, type: 3}
