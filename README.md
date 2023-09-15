@@ -8,3 +8,6 @@
 <div> Using Inky (A Narrative Scripting Language) for creating a Dialogue System </div>
 <div> Enjoyed level designing to challenge players </div>
 <div> Created pixel art style graphics with animations </div>
+
+# NOTE
+Script is only uploaed to this repository, not the whole game project
