@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 68f07b66b326ba14b8f2291f5df94202
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerControls: {instanceID: 0}
+  - hurtBoxClip: {instanceID: 0}
+  - playerHurtClip: {instanceID: 0}
+  - playerShockClip: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
