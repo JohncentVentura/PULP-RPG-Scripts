@@ -1,4 +1,4 @@
-# Project-of-University-of-Luzon-Pozorrubio-Role-Playing-Game
+# PULP RPG Scripts
 Project of University of Luzon Pozorrubio Role Playing Game or “PULP RPG” is a free and educational game for Windows 10 that is exclusive for both campuses that aids the declining enrollment number of students at the Pozorrubio Satellite Campus.
 
 # Lessons Learned
